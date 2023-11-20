@@ -6,6 +6,6 @@ test-report.*
 junit.xml
 *.log
 *.orig
-.awcache
 .env
 server/public
+.idea
